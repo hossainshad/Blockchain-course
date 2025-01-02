@@ -1,0 +1,30 @@
+.active {
+    background-color: #0D6EFD;
+    width: 145px;
+    text-align: center;
+    border-radius: 5px;
+    font-weight: bold;
+}
+.logo{
+    border-radius: 50%;
+}
+.hero-img{
+    border-radius: 10px;
+}
+
+.card{
+    align-items: center;
+    text-align: center;
+    height: 100%;
+}
+.example{
+    background-color: #0D6EFD;
+    border: black;
+    border-width: 2px;
+
+}
+.helping{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
